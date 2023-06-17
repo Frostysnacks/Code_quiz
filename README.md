@@ -14,7 +14,7 @@ with the corresponding answer options. This was a giant hurdle for me personally
 
 ## Application Screen-capture
 
-![alt text]](https://github.com/Frostysnacks/Code_quiz/blob/main/assets/images/example.PNG)
+![alt text](https://github.com/Frostysnacks/Code_quiz/blob/main/assets/images/example.PNG)
 
 
 
